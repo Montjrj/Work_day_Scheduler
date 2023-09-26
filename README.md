@@ -1,9 +1,9 @@
 ## Work Day Scheduler 
 
-[Deployed & Live URL](https://montjrj.github.io/personal_portfolio2/)
+[Deployed & Live URL]( https://montjrj.github.io/Work_day_Scheduler/)
 
 ## Description
-My portfolio serves as a comprehensive showcase of my developer's skills, capabilities, and experience in both front-end and back-end web development. It includes a collection of projects and examples that demonstrate proficiency in designing user interfaces, creating interactive and responsive web applications, and managing databases and server-side functionality. This portfolio is essential for job seekers, freelancers, or anyone looking to establish their credibility in the field of web development, as it provides tangible evidence of our abilities and allows potential employers or clients to assess their suitability for various roles or projects. In essence, a full stack portfolio serves as a visual and functional resume, showcasing a developer's versatility and expertise in building end-to-end web solutions.
+a seamless and efficient way to manage your daily tasks and appointments with our Dynamic Workday Calendar Application! Designed for productivity and convenience, this web-based calendar app empowers users to effortlessly organize their workday from 9:00 AM to 5:00 PM.
 
 ## Usage
 
